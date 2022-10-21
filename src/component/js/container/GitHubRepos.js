@@ -25,7 +25,7 @@ const GitHubRepos = () => {
 
     return (
         <div className='userInfomation'>
-            <div className='main-heading-text'>Red Hat - Assesment</div>
+            <div className='main-heading-text'>Red Hat - Assignment</div>
             <div className='infoTableContainer'>
                 <div className='heading'>{repos && repos.length >= 1 ? `Repositories of ${repos[0].owner.login}` : 'Repositories'}</div>
                 <table className='infoTable'>

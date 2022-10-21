@@ -32,7 +32,7 @@ const GitHubUsers = () => {
 
     return (
         <div className='usersContainer'>
-            <div className='main-heading-text'>Red Hat - Assesment</div>
+            <div className='main-heading-text'>Red Hat - Assignment</div>
             <div className='usersSearchContainer'>
                 <div className='heading'>Search GitHub Users</div>
                 <div className='typeahedSearchBarContainer'>
